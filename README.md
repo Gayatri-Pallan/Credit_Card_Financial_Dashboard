@@ -58,8 +58,7 @@ Card & Use Type Comparison: Compare revenue from Swipe, Chip, and Online payment
 🧠 Informed Decisions: Equips stakeholders with insights for personalized offers or loyalty campaigns.
 
 6. Screenshot
-Credit Card Customer Report
-https://github.com/Gayatri-Pallan/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Customer_Report.png
+   
+Credit Card Customer Report: https://github.com/Gayatri-Pallan/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Customer_Report.png
 
-Credit Card Transaction Report
-https://github.com/Gayatri-Pallan/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Transaction_Report.png
+Credit Card Transaction Report: https://github.com/Gayatri-Pallan/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Transaction_Report.png
