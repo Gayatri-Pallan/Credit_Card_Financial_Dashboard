@@ -8,9 +8,11 @@ A data-driven dashboard that explores customer attributes like age, job, marital
 A dynamic report providing insights into transaction trends, card types, revenue by use case, education, and spending categories.
 
 🎯 2. Short Description / Purpose
+
 These Power BI dashboards are designed to help stakeholders, business analysts, and financial teams gain better insights into credit card customer profiles and transaction patterns.
 
 • Customer Report focuses on understanding revenue contribution across various customer segments.
+
 • Transaction Report analyzes card usage trends, expenditure types, and quarterly revenue movements.
 
 🧰 3. Tech Stack
