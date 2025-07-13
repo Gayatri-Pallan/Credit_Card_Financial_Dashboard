@@ -14,23 +14,36 @@ These Power BI dashboards are designed to help stakeholders, business analysts, 
 
 🧰 3. Tech Stack
 These dashboards were built using the following technologies:
+
 📊 Power BI Desktop – Core platform for data visualization
+
 🔄 Power Query – For data transformation, cleaning, and modeling
+
 🧠 DAX (Data Analysis Expressions) – For calculated columns, KPIs, and measures
+
 🗃️ Data Modeling – Created relationships across multiple dimensions (Job, Age, Card Type, etc.)
+
 🌐 MySQL Database – Source of structured transactional and customer data
+
 📁 File Formats – .pbix for the dashboards and .pdf for sharing and showcasing
 
 🗂️ 4. Data Source
 • Source: Data imported directly from MySQL database consisting of two core tables — Customer Data and Transaction Data.
+
 • Customer Data Includes: Age, Gender, Job Type, Marital Status, Income, Card Category, Credit Score, Number of Dependents
+
 • Transaction Data Includes: Quarterly Revenue, Transaction Amount & Count,Expenditure Category, Card Type, Use Method (Online, Chip, Swipe)
 
 ✨ 5. Features / Highlights
+
 • Business Problems
+
 How do various customer profiles contribute to revenue?
+
 Which transaction types and cards are most profitable?
+
 How does job, income, education, or region impact credit card behavior?
+
 
 • Goals of the Dashboards
 Enable deep analysis of revenue by demographic and behavioral segmentation
@@ -52,9 +65,13 @@ Card & Use Type Comparison: Compare revenue from Swipe, Chip, and Online payment
 
 • Business Impact & Insights
 📈 Customer Segmentation: Enables targeted marketing based on age, job, or income.
+
 💳 Card Optimization: Discover which card types generate the highest returns.
+
 🧭 Strategic Planning: Back product changes with concrete revenue data and usage trends.
+
 🛍️ Spending Behavior Insight: Identify top categories where customers spend most.
+
 🧠 Informed Decisions: Equips stakeholders with insights for personalized offers or loyalty campaigns.
 
 6. Screenshot
