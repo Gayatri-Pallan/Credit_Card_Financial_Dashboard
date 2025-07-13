@@ -1,9 +1,12 @@
 # Credit_Card_Financial_Dashboard
 📌 1. Project Titles
+
 • Credit Card Customer Report:
+
 A data-driven dashboard that explores customer attributes like age, job, marital status, income, dependents, and spending behavior.
 
 • Credit Card Transaction Report:
+
 A dynamic report providing insights into transaction trends, card types, revenue by use case, education, and spending categories.
 
 🎯 2. Short Description / Purpose
