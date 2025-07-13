@@ -82,6 +82,10 @@ Card & Use Type Comparison: Compare revenue from Swipe, Chip, and Online payment
 
 6. Screenshot
    
-Credit Card Customer Report: https://github.com/Gayatri-Pallan/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Customer_Report.png
+Credit Card Customer Report: 
 
-Credit Card Transaction Report: https://github.com/Gayatri-Pallan/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Transaction_Report.png
+https://github.com/Gayatri-Pallan/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Customer_Report.png
+
+Credit Card Transaction Report: 
+
+https://github.com/Gayatri-Pallan/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Transaction_Report.png
