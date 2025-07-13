@@ -13,6 +13,7 @@ These Power BI dashboards are designed to help stakeholders, business analysts, 
 • Transaction Report analyzes card usage trends, expenditure types, and quarterly revenue movements.
 
 🧰 3. Tech Stack
+
 These dashboards were built using the following technologies:
 
 📊 Power BI Desktop – Core platform for data visualization
@@ -28,6 +29,7 @@ These dashboards were built using the following technologies:
 📁 File Formats – .pbix for the dashboards and .pdf for sharing and showcasing
 
 🗂️ 4. Data Source
+
 • Source: Data imported directly from MySQL database consisting of two core tables — Customer Data and Transaction Data.
 
 • Customer Data Includes: Age, Gender, Job Type, Marital Status, Income, Card Category, Credit Score, Number of Dependents
@@ -64,6 +66,7 @@ Education & Job-wise Spending: Link revenue to customer educational and professi
 Card & Use Type Comparison: Compare revenue from Swipe, Chip, and Online payments across card types.
 
 • Business Impact & Insights
+
 📈 Customer Segmentation: Enables targeted marketing based on age, job, or income.
 
 💳 Card Optimization: Discover which card types generate the highest returns.
